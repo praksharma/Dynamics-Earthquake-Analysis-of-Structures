@@ -4,7 +4,9 @@ The main objectives of this individual project are: 1) to further enhance the un
 One particular time stepping scheme (1/2γ=and a value of β of your choice) of the Newmark method is required to use and a proper programming language is employed to perform the simulations/computations concerned. The project consists of the following three parts:
 
 Question 1: Accuracy and stability analysis of Newmark’s method
+
 Question 2: Response spectra of SDOF systems under a ground motion
+
 Question 3: Earthquake analysis of a simple frame structure
 
 Use the response spectra obtained in Part 2 to compute the peak displacements and shear forces at the three floors for the following two cases:
