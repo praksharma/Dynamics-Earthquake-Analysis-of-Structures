@@ -1,0 +1,2 @@
+# Dynamics-Earthquake-Analysis-of-Structures
+The main objectives of this individual project are: 1) to further enhance the understanding of the numerical time integration method – Newmark’s algorithm by numerically investigating its accuracy and stability, and by implementing it using a computer programming language (e.g. MatLab, C, C++, or Python); 2) to generate the earthquake response spectra from a particular earthquake; and 3) to undertake an earthquake analysis of a simple frame structure.
